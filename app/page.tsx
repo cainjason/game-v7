@@ -11,7 +11,7 @@ export default function Home() {
         <div className="w-1/3">
           <Navbar />
         </div>
-        <div className="w-2/3 mt-10 mr-10">
+        <div className="w-2/3 mt-10 mr-10 ">
           <Video />
         </div>
       </div>
